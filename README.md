@@ -1,0 +1,1 @@
+Hi, it seems that WorldRemit app that I used to send you the payment is no longer accepting payments to Nigeria. Do you know another app? ![image](https://github.com/bloominspo/floragreensprouts/assets/149491836/e01a1927-e174-4a0a-a79e-9fcf4235d212)
