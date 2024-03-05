@@ -8,4 +8,7 @@ Unfortunately, you cannot transfer to my dollar account anymore. I will give you
 Account Name: Nosa Clement Obasuyi
 Account Number: 2064417411
 Bank Name: United Bank for Africa(UBA)
-You can use MoneyGram or World Remit. I apologize for the inconvenience.
+
+The destination currency will now be Naira not Dollar.
+
+You can continue with World Remit. It will work this time, just use the new account details.
