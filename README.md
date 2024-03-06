@@ -12,3 +12,5 @@ Bank Name: United Bank for Africa(UBA)
 The destination currency will now be Naira not Dollar. Hence, you are to select Nigeria NGN. Then input the dollar amount you want to send it. 
 
 You can continue with World Remit. It will work this time, just use the new account details provided above.
+
+Hi, I've sent the payment, let me know once you've received it
