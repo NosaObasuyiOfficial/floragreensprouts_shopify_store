@@ -14,3 +14,9 @@ The destination currency will now be Naira not Dollar. Hence, you are to select 
 You can continue with World Remit. It will work this time, just use the new account details provided above.
 
 Hi, I've sent the payment, let me know once you've received it
+
+Here are the details I got from WR
+Your transaction number: 191082782
+Nosa received: NGN 78000.00
+Bank name: UNITED BANK FOR AFRICA
+Bank account: 2064417411
