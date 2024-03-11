@@ -20,7 +20,7 @@
      ```
      cd into web folder
      npm install
-     ```
+
    This command will download and install all the necessary packages specified in your `package.json` file.
 
   - Change your directory back to your root folder
@@ -60,6 +60,8 @@
 - Use Fly.io(Recommended)
 -Please watch this video on how to use fly.io in deploying your application
 
+  Watch from time 3:17 - 11:40
+    ```
     https://www.youtube.com/watch?v=HOysnl2Yo4s
-     ```
+     
 
