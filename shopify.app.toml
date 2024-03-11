@@ -1,0 +1,24 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+client_id = "456be9562264d1ebe6f74375e3216f7f"
+name = "saint"
+application_url = "https://wooden-exhibits-students-document.trycloudflare.com"
+embedded = true
+
+[build]
+automatically_update_urls_on_dev = true
+dev_store_url = "noswhite.myshopify.com"
+include_config_on_deploy = true
+
+[auth]
+redirect_urls = [
+  "https://wooden-exhibits-students-document.trycloudflare.com/auth/callback",
+  "https://wooden-exhibits-students-document.trycloudflare.com/auth/shopify/callback",
+  "https://wooden-exhibits-students-document.trycloudflare.com/api/auth/callback"
+]
+
+[webhooks]
+api_version = "2024-01"
+
+[pos]
+embedded = false

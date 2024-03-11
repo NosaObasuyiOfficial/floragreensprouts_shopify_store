@@ -1,0 +1,28 @@
+{
+  "name": "floragreensprouts-app",
+  "version": "1.0.0",
+  "main": "web/index.js",
+  "license": "UNLICENSED",
+  "scripts": {
+    "shopify": "shopify",
+    "build": "shopify app build",
+    "dev": "shopify app dev",
+    "info": "shopify app info",
+    "generate": "shopify app generate",
+    "deploy": "shopify app deploy"
+  },
+  "dependencies": {
+    "@shopify/app": "3.57.0",
+    "@shopify/cli": "3.57.0",
+    "axios": "^1.6.7",
+    "react-icons": "^5.0.1",
+    "react-spinners": "^0.13.8"
+  },
+  "author": "mac",
+  "private": true,
+  "workspaces": [
+    "extensions/*",
+    "web",
+    "web/frontend"
+  ]
+}
